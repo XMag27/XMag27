@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust, Solidity and Ethical Hacking**
 
-- 📝 I regularly write articles on [h4ckstation.com](h4ckstation.com)
+- 📝 I regularly write articles on [h4ckstation.com](https://h4ckstation.com/)
 
 - 💬 Ask me about **Linux, Hacking**
 
