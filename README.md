@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Linux, Hacking**
 
-- ⚡ Fun fact **I think im inmortal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
